@@ -1,0 +1,26 @@
+.container-fluid, .container{
+    border: 1px solid black;
+}
+
+
+nav{
+    background-color: darkslategrey;
+    height: 50px;
+}
+
+nav > .row{
+    height: 100%;
+}
+
+header{
+    background-color: aquamarine;
+    height: 200px;
+}
+
+header > .row{
+    height: 100%;
+}
+
+.header-content-row{
+    height: 25%;
+}
