@@ -1,4 +1,4 @@
-.container-fluid, .container{
+.row{
     border: 1px solid black;
 }
 
@@ -23,4 +23,12 @@ header > .row{
 
 .header-content-row{
     height: 25%;
+}
+
+.imgs{
+    height: 500px;
+}
+
+.imgs div{
+    border: 1px solid black;
 }
