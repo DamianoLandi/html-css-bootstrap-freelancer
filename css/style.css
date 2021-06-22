@@ -2,18 +2,20 @@
     border: 1px solid black;
 }
 
-
-nav{
-    background-color: darkslategrey;
-    height: 50px;
-}
-
 nav > .row{
     height: 100%;
 }
 
+.darkgray-bg{
+    background-color: darkslategrey;
+}
+
 .aqua-bg{
     background-color: aquamarine;
+}
+
+.darkblue-bg{
+    background-color: darkslateblue;
 }
 
 header > .row{
@@ -29,5 +31,10 @@ header > .row{
 }
 
 .imgs div{
+    border: 1px solid black;
+}
+
+.footer-col{
+    margin:auto;
     border: 1px solid black;
 }
