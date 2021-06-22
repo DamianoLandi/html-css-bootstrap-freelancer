@@ -12,9 +12,8 @@ nav > .row{
     height: 100%;
 }
 
-header{
+.aqua-bg{
     background-color: aquamarine;
-    height: 200px;
 }
 
 header > .row{
