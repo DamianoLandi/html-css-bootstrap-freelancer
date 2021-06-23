@@ -1,40 +1,39 @@
-.row{
-    border: 1px solid black;
-}
-
-nav > .row{
-    height: 100%;
-}
+/* Colors */
 
 .darkgray-bg{
-    background-color: darkslategrey;
+    background-color: rgb(44, 62, 80);
 }
 
 .aqua-bg{
-    background-color: aquamarine;
+    background-color: rgb(26, 188, 156);
 }
 
 .darkblue-bg{
-    background-color: darkslateblue;
+    background-color: rgb(58,84,109);
 }
 
-header > .row{
-    height: 100%;
+/* Nav */
+
+/* Header */
+
+
+/* MAIN */
+
+/* Main First Section*/
+
+#images{
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
-.header-content-row{
-    height: 25%;
+.imgs img{
+    max-width: 100%;
+    max-height: 100%;
 }
 
-.imgs{
-    height: 500px;
-}
-
-.imgs div{
-    border: 1px solid black;
-}
-
-.footer-col{
-    margin:auto;
-    border: 1px solid black;
+.star-side-line hr{
+    border: 3px solid black;
+    width: 100%;
+    border-radius: 2px;
+    opacity: 0.8;
 }
