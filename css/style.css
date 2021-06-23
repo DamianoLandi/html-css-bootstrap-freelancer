@@ -14,6 +14,15 @@
 
 /* Nav */
 
+#navbar .navbar-toggler-icon{
+    opacity: 1;
+    filter: invert(1);
+}
+
+#navbar .navbar-toggler{
+    border-color: white;
+}
+
 /* Header */
 
 
