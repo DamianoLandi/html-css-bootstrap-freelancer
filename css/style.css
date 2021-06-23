@@ -87,3 +87,33 @@ header{
     background-color: rgb(26, 188, 156);
     border: none;
 }
+
+/* FOOTER */
+
+/* Footer First Section */
+
+.color-aqua{
+    color:  rgb(26, 188, 156);
+}
+
+.footer-icon-container > *{
+    display: inline-block;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+
+.footer-icon-container > i:first-of-type{
+    padding: 5px 10px;
+}
+
+.footer-icon-container > i:nth-of-type(2){
+    padding: 6px 4px;
+}
+
+.footer-icon-container > i:nth-of-type(3){
+    padding: 6px;
+}
+
+.footer-icon-container > i:last-of-type{
+    padding: 6px 8px;
+}
