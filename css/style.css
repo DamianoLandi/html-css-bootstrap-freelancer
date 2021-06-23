@@ -92,6 +92,10 @@ header{
 
 /* Footer First Section */
 
+.footer-first-section{
+    padding: 30px 0;
+}
+
 .color-aqua{
     color:  rgb(26, 188, 156);
 }
@@ -116,4 +120,16 @@ header{
 
 .footer-icon-container > i:last-of-type{
     padding: 6px 8px;
+}
+
+/* Footer Last Section */
+
+.footer-last-section{
+    padding: 30px 0;
+}
+
+.footer-last-section i{
+   position: relative;
+   top: 5px;
+   margin: 0 5px;
 }
