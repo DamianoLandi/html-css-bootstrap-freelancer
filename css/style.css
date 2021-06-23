@@ -71,3 +71,19 @@ header{
     color: white;
     border-color: white;
 }
+
+/* Main Third Section */
+
+#contact .form-control{
+    border: none;
+}
+
+#contact textarea{
+    padding-left: 0;
+}
+
+#contact .send{
+    margin: 15px 0;
+    background-color: rgb(26, 188, 156);
+    border: none;
+}
